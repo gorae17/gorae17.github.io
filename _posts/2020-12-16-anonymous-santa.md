@@ -235,3 +235,20 @@ i  hosting[anonymous-santa]: releasing new version...
 Project Console: https://console.firebase.google.com/project/anonymous-santa/overview
 Hosting URL: https://anonymous-santa.web.app
 ```
+
+# 참고 자료
+- https://niceman.tistory.com/category/%EC%9B%B9%20%ED%94%84%EB%A1%A0%ED%8A%B8/Vue
+- https://github.com/KrunalLathiya/VueFirebaseTutorial
+- https://appdividend.com/2018/04/21/vue-firebase-crud-example/
+- https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase?fbclid=IwAR3L9kYFjC8WjhdLWK1OlamPQE4kTk3_pVqpTN_HmYi-sBOII0O8lqdVmKA#firebase-real-time-database
+- https://beomy.tistory.com/40
+
+## 학습 자료
+- https://vuex.vuejs.org/kr/
+- https://gitct.goorm.io/learn/lecture/24989/%EB%B6%80%EB%8B%B4-%EC%97%86%EC%9D%B4-%EC%89%BD%EA%B3%A0-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88-%EC%A0%95%EB%A6%AC
+- https://romeoh.tistory.com/entry/Firebase-Python-Firebase-Realtime-Database
+- https://joshua1988.github.io/web-development/javascript/promise-for-beginners/
+- https://ko.javascript.info/arrow-functions-basics
+- https://kr.vuejs.org/v2/guide/
+- https://jeonghwan-kim.github.io/2018/04/07/vue-router.html
+- https://m.blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=221231207526&proxyReferer=https:%2F%2Fwww.google.com%2F
